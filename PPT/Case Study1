@@ -1,0 +1,108 @@
+What are the capabilities & technologies enabled by deep learning?A deep learning model can identify, classify and analyze structured data, images, text or sound.
+
+Computer Vision
+Computer vision includes comprehending a visual environment and its context. For forming a computer vision model, there are three steps:
+
+acquiring an image from data sets
+processing the image automatically with deep learning algorithms
+identifying the image and its class.
+The types of computer vision include image classification & segmentation, object detection & tracking. Feel free to explore our research on computer vision.
+
+Image classification and segmentation
+Deep learning models can discriminate an image from others and classify it by using predefined and labeled categories. Convolutional neural networks (CNN) are deep learning networks and are mostly used in this domain. To ease the analysis of the image, image segmentation models are used. Today, image classification and segmentation algorithms are used in different areas from our daily activities to future technologies. For instance, this technology allows us to
+
+analyse medical images more accurately
+develop self driving cars
+do fingerprint, iris and face matching for biometric processes
+look up details for artworks
+have smarter home security systems
+Feel free to read our image recognition research.
+
+Object detection and tracking
+An image contains various objects and object detection algorithms are applied for localisation and classification of these objects. Object detection models build bounding boxes around objects and determine the objects within the bounding box. Object tracking can be implemented after detection of the object. When an object moves in the bounding box, object tracking models track this object into the next images and update the bounding boxes. These models are used for
+
+face recognition from images
+identification a specific individual in the photos/images
+Natural language processing (NLP)
+Natural language processing algorithms interpret and analyse natural language data in textual or verbal forms. It enables generating human language, speech or identifying the speaker based on differences in voice.
+
+NLP deep learning applications include speech recognition, text classification, sentiment analysis, text simplification and summarisation, writing style recognition, machine translation, parts-of-speech tagging, and  text-to-speech tasks. This technology helps us for
+
+virtual voice/smart assistants
+Digital workers
+e-mail filters
+autocorrect & autocomplete text checks
+communicating with chatbots
+translating languages in real time
+Feel free to check our related research about NLP.
+
+Automated predictions
+As we mentioned in our deep learning software guide, deep learning models can provide better, faster, cheaper and valuable predictions compared to other machine learning approaches. This is especially true in cases where a large volume of high quality training data is available. Predictive models based on deep artificial neural networks (i.e. deep learning) can work with vast amounts of data, realize nonlinear relationships and figure out complex patterns.
+
+What are deep learning use cases in different industries and sectors?
+Agriculture
+Optimize yield production by using data from sensors and satellites taking into account temperature, humidity, etc.
+Aerospace & Defence
+Identify objects from images acquired via satellites
+Use surveillance cameras to detect suspicious events or gather intelligence
+Automotive
+Develop autonomous things including vehicles. There are numerous deep learning models used in such devices including those for detecting traffic signs & lights, other vehicles, pedestrians, etc.
+Financial services
+Trading: Estimate future stock market prices
+Fraud detection: Detect fraudulent activities with higher accuracy and fewer false positives
+Evaluate a client’s creditworthiness by analyzing information from multiple sources and responding to loan applications faster
+Personalization: Identify next best actions for each customer
+Feel free to read our article on deep learning use cases in finance for more.
+
+Healthcare
+Diagnose diseases leveraging medical imaging solutions, for example recognition of potential cancerous lesions on radiology images
+Personalize medical treatments
+Determine patients most at risk in the healthcare system
+Feel free to read our article on deep learning use cases in healthcare for more.
+
+Insurance
+Automate claims and damage analysis from reports or images
+Image-based risk prediction for home insurance
+Pricing risk
+Manufacturing
+Manufacturing companies including discrete manufacturing like automotive or other industrial companies (e.g. oil&gas) rely on deep learning algorithms:
+
+Provide advanced analytics tools for processing big data about manufacturing
+Generate automated alerts about the issues of production lines (e.g. on quality assurance or safety) using sensor data to notify relevant teams on time
+Support predictive maintenance systems by analyzing images and other sensor data
+Empower industrial robots with sensors and computer vision skills
+Monitor working environment around heavy machineries automatically to ensure people and items are at a safe distance
+Feel free to read our article on deep learning manufacturing use cases for more.
+
+Pharmaceuticals & Medical Products
+Drug discovery: Prediction of drug effects, monitoring the use of drug and identifying its side effects
+Enable precision medicine which includes remedies based on genetic, environmental or lifestyle factors (also called personalised medicine)
+Public sector
+Make predictions about population health risks
+Facial recognition for security checks
+Retail & E-commerce
+Offer new shopping experiences such as “Just Walk Out” stores, and checkout-less shopping. For more, feel free to read our article on cashierless stores.
+Other shopping experiences powered by deep learning include voice-enabled shopping and in-store robots.
+Image search: Scanning the image of the product to find the product on the store or suggest similar alternatives
+Forecasting product demand more accurately according to buying habits analysis and future trend predictions
+Deliver effective inventory management to prevent of out-of-stock and oversupply
+Provide personalised shopper experience based on browsing/purchasing history in-store or online
+Formulate personalized recommendations and reminders, such as style matches for fashionistas
+What are deep learning use cases in different departments or functions?
+Analytics
+Most deep learning applications empower analytics solutions. Therefore analytics departments rely on deep learning in numerous cases
+Customer success
+Chatbots offering immediate and personalized customer service
+Monitor customers’ responses, reviews and social media activity to identify what they say about the brand
+Churn prevention: Examine data in customer feedback forms/texts, identify potential churners and communicate with the customer without losing time
+Cybersecurity
+Intrusion detection/prevention systems (IDS / IPS): Investigate user activities and network traffic to prevent malicious activities and reduce false alerts
+Operations
+Automatically extract data from documents using deep learning models
+Sales & Marketing
+Create personalised advertisements according to browsing data
+Identify potential clients that are most likely to buy the solution
+Logo and counterfeit item detection in social media for brand protection
+Supply Chain
+Optimize routing to reduce costs, carbon footprint and delivery times
+Identify driver or vehicle performance improvement suggestions based on sensor data
